@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MY FILE
+=======
+MY FILEasd asd
+>>>>>>> test200/master
